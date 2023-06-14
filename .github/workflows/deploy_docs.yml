@@ -24,7 +24,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  PACKAGE_NAME: AgoraRtcEngine_macOS
+  PACKAGE_NAME: AgoraRtcKit
   BUILD_DEST: generic/platform=macos
   BUILD_PRODUCT: Debug-iphoneos
   JSON_TEMPLATE_BASE: https://github.com/AgoraIO/agora_doc_source/releases/download/master-build/ios_ng_json_template
